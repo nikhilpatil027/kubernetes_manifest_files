@@ -1,0 +1,48 @@
+1. Different between private and public subnet
+
+2. Extend any volume in linux vm root partition is 50gb increase to 100gb, we don't want to use EBS, how to do?
+
+3. after launching EC2 instance status check is there right? what are those
+
+4. SG and NACL, i want to deny traffic using SG? how to do
+
+5.some application is running fine in aws cloud, but suddenly SSH communication was not happening, if i want to log into the server, how we can login and check
+
+6.CloudFront in which location do we need to use ssl certificate to secure our website
+
+7.website is experiencing latency issues what is the best practice to reduce latency
+
+8.lets say you have launched RDS instance you try to connect but it is not happening? how you troubleshoot? you are unable to establish connection
+
+9.you want to secure aws account, which service you use?
+
+10.you want to attach ssl certificate in aws env with one of the application server what will you do(load balancer)
+
+11. ec2 and s3 the api call is failing from ec2 how to troubleshoot
+
+12.some process is running that process has 100child process how to kill all process in one shot
+
+13. how will run backup service dedicatedly if i want 7days backup how will do
+
+14. linux m/c how to check which flavour you are using? how to list all package installed? how do you update the package
+
+15.difference between GitLab pipeline and Jenkins pipeline
+
+16.how you configure the pipeline jobs
+
+17.how will ensure CI part working fine?
+
+18. some month resource usage spiked and resource cost will be more , how how will you manage the cost optimization.
+
+19. how will you take backup of AMI images?
+
+20. in your experience what issue have been resolved using shell command?
+
+21.  have you facing any issue during deployment? what are those?
+
+22. if any build fails in Jenkins how will you resolve? what are the step have you taken?
+
+23. how can you secure your AWS apart from IAM?
+
+24. how will you do password less connection?
+
